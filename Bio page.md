@@ -1,7 +1,16 @@
 # this website is underconstruction
 
-I'm Jiarui Deng from Shenzhen,China.
+<span style="color:blue">I'm Jiarui Deng from Shenzhen,China.
+</span>.
 
-I'm a junior at UCSD majoring in cognitive science with a math minor. 
+<span style ="color:blue"> I'm a junior at UCSD majoring in cognitive science with a math minor.</span>.
 
-I love to make new friends, period.
+<span style="color:blue">I love making friends, period.
+
+
+
+
+
+
+
+
